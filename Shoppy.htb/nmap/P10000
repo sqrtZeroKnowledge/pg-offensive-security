@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Sep 18 23:44:01 2022 as: nmap -sV -p10000-30000 -sCV -vv -oG P10000 10.129.203.85
+# Ports scanned: TCP(20001;10000-30000) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.129.203.85 ()	Status: Down
+# Nmap done at Sun Sep 18 23:44:04 2022 -- 1 IP address (0 hosts up) scanned in 3.57 seconds

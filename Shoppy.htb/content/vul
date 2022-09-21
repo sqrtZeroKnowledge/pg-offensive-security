@@ -1,0 +1,6 @@
+|   cpe:/a:openbsd:openssh:8.4p1: 
+|       CVE-2021-28041  4.6     https://vulners.com/cve/CVE-2021-28041
+|       CVE-2021-41617  4.4     https://vulners.com/cve/CVE-2021-41617
+|       CVE-2020-14145  4.3     https://vulners.com/cve/CVE-2020-14145
+|       CVE-2016-20012  4.3     https://vulners.com/cve/CVE-2016-20012
+|_      CVE-2021-36368  2.6     https://vulners.com/cve/CVE-2021-36368
