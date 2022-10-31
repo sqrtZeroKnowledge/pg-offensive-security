@@ -7,4 +7,4 @@ Wait me until i smoke a cigarette.
 https://github.com/MouadDv/CTFs-Challenges-writeups/tree/main/challenge_by_Touhami_Kasbaoui
 
 ## LABS: 
-    OnSystemShellDredd
+    OnSystemShellDredd Shoppy, Kiba
